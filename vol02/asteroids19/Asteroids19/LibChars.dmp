@@ -1,0 +1,203 @@
+
+******* 27 Label(s) *******
+acJuego = $3249 
+activaColorFondoExtendido = $3268 
+activaJuego = $324A 
+activaMulticolor = $325F 
+Asteroids = $0810 
+bucle = $0813 
+cbBucle = $321C 
+cbComienzoHi = $3201 
+cbComienzoLo = $3200 
+cbDestinoHi = $3205 
+cbDestinoLo = $3204 
+cbFinHi = $3203 
+cbFinLo = $3202 
+colorBorde = $3271 
+colorFondo0 = $3272 
+colorFondo1 = $3273 
+colorFondo2 = $3274 
+colorFondo3 = $3275 
+configuraColores = $3276 
+copiaBloque = $3206 
+inicializaPantalla = $0816 
+rcBucle = $32B3 
+rcColor = $32AD 
+rellenaColor = $32AE 
+rellenaPantalla = $3296 
+rpBucle = $329B 
+rpCaracter = $3295 
+
+******* 6 Unused label(s) *******
+activaColorFondoExtendido
+activaJuego
+activaMulticolor
+Asteroids
+copiaBloque
+rellenaPantalla
+
+******* 85 Variable(s) *******
+ATDCY1  = $D405
+ATDCY2  = $D40C
+ATDCY3  = $D413
+BGCOL0  = $D021
+BGCOL1  = $D022
+BGCOL2  = $D023
+BGCOL3  = $D024
+CHROUT  = $FFD2
+CIACRA  = $DC0E
+CIACRB  = $DC0F
+CIAICR  = $DC0D
+CIAPRA  = $DC00
+CIAPRB  = $DC01
+CIASDR  = $DC0C
+CIDDRA  = $DC02
+CIDDRB  = $DC03
+CINV  = $0314
+COLORRAM  = $D800
+CUTHI  = $D416
+CUTLO  = $D415
+ENV3  = $D41C
+EXTCOL  = $D020
+FREHI1  = $D401
+FREHI2  = $D408
+FREHI3  = $D40F
+FRELO1  = $D400
+FRELO2  = $D407
+FRELO3  = $D40E
+GETIN  = $FFE4
+IRQMSK  = $D01A
+LOAD  = $FFD5
+MSIGX  = $D010
+POTX  = $D419
+POTY  = $D41A
+PWHI1  = $D403
+PWHI2  = $D40A
+PWHI3  = $D411
+PWLO1  = $D402
+PWLO2  = $D409
+PWLO3  = $D410
+RANDOM  = $D41B
+RASTER  = $D012
+RESON  = $D417
+SAVE  = $FFD8
+SCROLX  = $D016
+SCROLY  = $D011
+SETLFS  = $FFBA
+SETNAM  = $FFBD
+SIGVOL  = $D418
+SP0COL  = $D027
+SP0X  = $D000
+SP0Y  = $D001
+SPBGCL  = $D01F
+SPBGPR  = $D01B
+SPENA  = $D015
+SPMC  = $D01C
+SPMC0  = $D025
+SPMC1  = $D026
+SPRITE0  = $07F8
+SPSPCL  = $D01E
+SUREL1  = $D406
+SUREL2  = $D40D
+SUREL3  = $D414
+tgt_c64  = $0001
+TIMAHI  = $DC05
+TIMALO  = $DC04
+TIMBHI  = $DC07
+TIMBLO  = $DC06
+TODHRS  = $DC0B
+TODMIN  = $DC0A
+TODSEC  = $DC09
+TODTEN  = $DC08
+VCREG1  = $D404
+VCREG2  = $D40B
+VCREG3  = $D412
+VICIRQ  = $D019
+VICSCN  = $0400
+VMCSB  = $D018
+XXPAND  = $D01D
+YXPAND  = $D017
+ZeroPageHigh  = $00FC
+ZeroPageHigh2  = $00FE
+ZeroPageLow  = $00FB
+ZeroPageLow2  = $00FD
+ZeroPageTemp  = $0002
+******* 77 Unused variables(s) *******
+ATDCY1
+ATDCY2
+ATDCY3
+CHROUT
+CIACRA
+CIACRB
+CIAICR
+CIAPRA
+CIAPRB
+CIASDR
+CIDDRA
+CIDDRB
+CINV
+COLORRAM
+CUTHI
+CUTLO
+ENV3
+FREHI1
+FREHI2
+FREHI3
+FRELO1
+FRELO2
+FRELO3
+GETIN
+IRQMSK
+LOAD
+MSIGX
+POTX
+POTY
+PWHI1
+PWHI2
+PWHI3
+PWLO1
+PWLO2
+PWLO3
+RANDOM
+RASTER
+RESON
+SAVE
+SETLFS
+SETNAM
+SIGVOL
+SP0COL
+SP0X
+SP0Y
+SPBGCL
+SPBGPR
+SPENA
+SPMC
+SPMC0
+SPMC1
+SPRITE0
+SPSPCL
+SUREL1
+SUREL2
+SUREL3
+tgt_c64
+TIMAHI
+TIMALO
+TIMBHI
+TIMBLO
+TODHRS
+TODMIN
+TODSEC
+TODTEN
+VCREG1
+VCREG2
+VCREG3
+VICIRQ
+VICSCN
+XXPAND
+YXPAND
+ZeroPageHigh
+ZeroPageHigh2
+ZeroPageLow
+ZeroPageLow2
+ZeroPageTemp
+
